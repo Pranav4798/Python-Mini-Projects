@@ -1,0 +1,5 @@
+Simple Python program to order a pizza
+
+Displays the menu options along with cost
+Can make selections accordingly by entering the appropriate item number
+Displays the total cost along with Tax
