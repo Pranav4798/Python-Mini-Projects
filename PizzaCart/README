@@ -1,25 +1,44 @@
-*The Pizza Cart Proposal*
+# 🍕 Pizza Cart Ordering App
 
-You’ve just received a proposal from the owner of a popular local pizza cart. Business is booming, but the current pen-and-paper order system is slowing things down. The owner wants to upgrade and has approached you to develop a simple, user-friendly Python-based ordering application.
+Welcome to the **Pizza Cart Ordering App** – a beginner-friendly Python project built for a local pizza vendor looking to digitize their order-taking process.
 
-Project Requirements:
-Build a command-line pizza ordering app that can:
+---
 
-Display a pizza menu with item names and corresponding prices.
+## 📜 Project Story
 
-Allow the customer to select items by entering the item number or name.
+You’ve received a proposal from the owner of a bustling pizza cart who’s tired of managing orders on paper. They need **you** to build a **simple command-line ordering application** to make the process faster, more reliable, and fun!
 
-Calculate the total cost, including a fixed tax percentage (e.g., 8.5%).
+---
 
-Show a clear receipt summary at the end.
+## 💻 Features
 
-Bonus Features (if you want to go extra cheesy 🍕):
-Allow customers to order multiple items.
+- 🧾 Displays a menu with pizza options and prices  
+- 🧑‍🍳 Lets users select items by entering the item number  
+- 🧮 Calculates total cost including tax (e.g., 8.5%)  
+- 📄 Shows a receipt summary after the order
 
-Give a discount if the total exceeds a certain amount (e.g., 10% off over $50).
+---
 
-Support customization like "extra cheese" or "gluten-free" crusts with added cost.
+## 🔥 Bonus Features (Optional)
 
-Store orders in a simple text file (simulating order logs for the vendor).
+- 🛒 Multiple item selection  
+- 💸 Discounts on large orders (e.g., 10% off over $50)  
+- 🧀 Add-ons like extra cheese or gluten-free crust  
+- 📁 Save orders to a text file (order logs)  
+- 🎉 Fun thank-you message after checkout  
 
-Display a fun message like “Thanks for ordering from The Pizza Cart!”
+---
+
+## 🧰 Tech Stack
+
+- Language: **Python 3.x**  
+- Interface: **Command-Line (CLI)**
+
+---
+
+## 🚀 Getting Started
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/pizza-cart-ordering-app.git
+   cd pizza-cart-ordering-app
