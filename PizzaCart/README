@@ -1,5 +1,25 @@
-Simple Python program to order a pizza
+## *The Pizza Cart Proposal*
 
-Displays the menu options along with cost
-Can make selections accordingly by entering the appropriate item number
-Displays the total cost along with Tax
+You’ve just received a proposal from the owner of a popular local pizza cart. Business is booming, but the current pen-and-paper order system is slowing things down. The owner wants to upgrade and has approached you to develop a simple, user-friendly Python-based ordering application.
+
+Project Requirements:
+Build a command-line pizza ordering app that can:
+
+Display a pizza menu with item names and corresponding prices.
+
+Allow the customer to select items by entering the item number or name.
+
+Calculate the total cost, including a fixed tax percentage (e.g., 8.5%).
+
+Show a clear receipt summary at the end.
+
+Bonus Features (if you want to go extra cheesy 🍕):
+Allow customers to order multiple items.
+
+Give a discount if the total exceeds a certain amount (e.g., 10% off over $50).
+
+Support customization like "extra cheese" or "gluten-free" crusts with added cost.
+
+Store orders in a simple text file (simulating order logs for the vendor).
+
+Display a fun message like “Thanks for ordering from The Pizza Cart!”
