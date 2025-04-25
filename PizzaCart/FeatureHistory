@@ -1,7 +1,7 @@
 1. Created the application
 2. Added functionality - error handling, improved UI
 3. Transformed into a GUI App using Tkinter
-4. Save all order history into a csv
+4. Save all order history into a csv, added ordering quantity, order confirmation before checkout, improved UI.
 5. Add functinality - Quantity adjustments, customize toppings
 6. Transform into a web app using Flask
 7. Transform into a mobile app using kivy
