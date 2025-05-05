@@ -9,3 +9,4 @@ Collection of all mini projects done by me
 5. Random Number Guessing Game
 6. Slot Machine  
 7. BMI Calculator  
+8. Recipe App  
