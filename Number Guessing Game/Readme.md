@@ -70,8 +70,9 @@ python number_guessing_game.py
 ## 💡 How to Play
 
 * Start the game by entering your guess.
-* Follow the instructions to guess higher or lower.
+* Guess higher or lower according to the hint.
 * You have three attempts to guess the correct number.
+
 
 ---
 
