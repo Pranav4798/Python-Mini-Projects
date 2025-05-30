@@ -1,3 +1,3 @@
-Timer in Python which goes off after a specified duration
+Timer in Python which goes off after a specified duration.  
 
-Yet to add functionality. Working on it.
+To add more functionality. Working on it.
